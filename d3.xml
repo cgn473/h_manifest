@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="zebra"
+           fetch="git@github.com/cgn473"
+           />
+  <default revision="main"
+           remote="zebra"
+           sync-j="8" />
+
+
+
+  <project name="h_p1.git" path="h_p1"/>
+</manifest>
+
