@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote  name="zebra"
-           fetch="git@github.com:cgn473"
+           fetch="https://github.com/cgn473"
            />
   <default revision="main"
            remote="zebra"
